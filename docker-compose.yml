@@ -1,0 +1,42 @@
+services:
+  app00:
+    build: .
+    env_file:
+      - .env
+  app01:
+    build: .
+    env_file:
+      - .env
+  app02:
+    build: .
+    env_file:
+      - .env
+  app03:
+    build: .
+    env_file:
+      - .env
+  app04:
+    build: .
+    env_file:
+      - .env
+  app05:
+    build: .
+    env_file:
+      - .env
+  app06:
+    build: .
+    env_file:
+      - .env
+  app07:
+    build: .
+    env_file:
+      - .env
+  app08:
+    build: .
+    env_file:
+      - .env
+  app09:
+    build: .
+    env_file:
+      - .env
+  
